@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Nova - AI Voice \u0026 Image Studio",
+  "description": "A cutting-edge AI assistant featuring real-time voice conversation, image and video generation, and advanced reasoning powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
